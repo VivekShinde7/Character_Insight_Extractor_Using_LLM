@@ -1,5 +1,6 @@
 import sys
 import json
+import os
 from src.utils import setup_vector_database, run_llm_chain
 
 def get_character_info(character_name):
@@ -74,6 +75,16 @@ def get_character_info(character_name):
 
     # Print and return the response
     print(json.dumps(response, indent=4))
+
+    # Save the response as a JSON file in the output folder
+    output_folder = "output"
+    os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
+    output_file = os.path.join(output_folder, f"{character_name.replace(' ', '_')}.json")
+    
+    with open(output_file, "w", encoding="utf-8") as json_file:
+        json.dump(response, json_file, indent=4)
+
+    print(f"\nOutput saved to {output_file}")
     return response
 
 if __name__ == "__main__":
