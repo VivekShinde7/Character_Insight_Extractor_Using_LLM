@@ -9,7 +9,7 @@ def get_character_info(character_name):
     """
     # Set up the vector database
     vector_db = setup_vector_database()
-    search_results = vector_db.similarity_search(character_name, k=3)
+    search_results = vector_db.similarity_search(character_name, k=5)
 
     if not search_results:
         print(f"Character '{character_name}' not found.")
