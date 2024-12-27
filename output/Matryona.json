@@ -1,0 +1,12 @@
+{
+    "name": "Matryona",
+    "storyTitle": "sorrow",
+    "summary": "Matryona is a character from the story who married the turner forty years ago. She was described as young, attractive, and cheerful, coming from a well-off family. The turner married her due to his impressive handicraft. Their marriage had the potential for happiness, but the turner's constant drunkenness and quarreling ruined it. The only thing the turner can recall from his wedding is getting drunk, lying on the stove, and arguing. He is unable to remember anything else from the past forty years of his marriage, indicating a life wasted due to his alcoholism.",
+    "relations": [
+        {
+            "name": "spouse",
+            "relation": "married"
+        }
+    ],
+    "characterType": "Side"
+}

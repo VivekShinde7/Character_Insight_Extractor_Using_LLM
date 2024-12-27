@@ -1,0 +1,20 @@
+{
+    "name": "Mr Holohan",
+    "storyTitle": "a-mother",
+    "summary": "Mr. Holohan is an assistant secretary of the Eire Abu Society who has been arranging a series of concerts in Dublin. He has a distinctive limp, earning him the nickname \"Hoppy Holohan\" from his friends. Mr. Holohan is involved in the daily activities of Madam Glynn, a woman from London, seeking her advice and assistance. He is also responsible for introducing Madam Glynn to the two young ladies. Mr. Holohan is described as having a game leg and feeling heated, possibly due to the stress of his responsibilities. Overall, Mr. Holohan is a hardworking and sociable character in the story.",
+    "relations": [
+        {
+            "name": "her",
+            "relation": "friend"
+        },
+        {
+            "name": "Madam Glynn",
+            "relation": "colleague"
+        },
+        {
+            "name": "two young ladies",
+            "relation": "observer"
+        }
+    ],
+    "characterType": "Side"
+}
