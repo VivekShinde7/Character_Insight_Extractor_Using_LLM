@@ -1,6 +1,7 @@
 # **Character Insight Extraction Using LLM (DeepStack Assignment)**
 
 ## **Demo Video**
+https://github.com/user-attachments/assets/9e318c7e-04e3-4533-97b4-cee93678fd52
 
 ## **Technologies Used**
 ### **1. LangChain and Python**
