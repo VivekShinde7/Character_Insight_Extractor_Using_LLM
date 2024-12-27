@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/7aa63a02-2027-4d1b-9d4c-26fc251922e8
    git clone https://github.com/VivekShinde7/Character_Insight_Extractor_Using_LLM.git
    ```
    ```bash
-   cd Audio-DeepFake-Detection-using-CNN-BiLSTM
+   cd Character_Insight_Extractor_Using_LLM
    ```
 
 2. Set Up a Python Environment:
