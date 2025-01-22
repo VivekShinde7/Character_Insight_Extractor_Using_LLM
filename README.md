@@ -54,11 +54,6 @@ https://github.com/user-attachments/assets/7aa63a02-2027-4d1b-9d4c-26fc251922e8
     HF_TOKEN = your_huggingface_token
     GROQ_API_KEY = your_groq_api_key
    ```
-   - Use my API Keys if you want
-   ```bash
-    HF_TOKEN = "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"
-    GROQ_API_KEY = "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"
-   ```
 
 ## **Usage**
 
